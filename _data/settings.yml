@@ -9,8 +9,8 @@ google-ID: 'UA-144640135-1'
 menu:
 - {name: 'Projects', folder: 'pages', file: 'facts.html'}
 # - {name: 'Resume', folder: 'pages', file: 'resources.html'}
-# - {name: 'Achievements', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Cricket', folder: 'pages', file: 'documentation.html'}
+- {name: 'Cricket', folder: 'pages', file: 'cricket.html'}
+- {name: 'Podcasts', folder: 'pages', file: 'podcasts.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 

@@ -2,9 +2,26 @@
 layout: misc
 title: About
 ---
+I am currently pursuing my Bachelor's Degree with specialization in **Computer Science Engineering** from [Manipal University Jaipur, India](https://jaipur.manipal.edu/). I hold a keen interest in data analytics and Python Programming. 
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+I also have an undying passion towards cricket commentary and public speaking.
 
-<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/148716017&color=%2354444c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+### WORK EXPERIENCE
+* [Indian Statistical Institute, Delhi Centre](https://www.isid.ac.in/)
+**PROJECT INTERN**
+MAY 2018-JULY 2018
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/LbIXYEW9CSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Developed an Inventory Management System on Jupyter Notebooks using Python that takes into account multiple factors to prevent an "Out-Of-Stock" Situation, while also predicting the average sales product-wise over the desired amount of time.
+
+*   [Indian Statistical Institute, Delhi Centre](https://www.isid.ac.in/)
+**PROJECT INTERN**
+MAY 2019-JULY 2019
+
+Developed a Song Recommendation System on Jupyter Notebooks using Python that works accoring to various prediction models, while also comapring them to determine their utility and accuracy.
+
+### ACHIEVEMENTS 
+
+* Credited for 1 NEO Observation and 11 NEO Confirmations in the [All India Asteroid Search Campaign](https://www.space-india.com/all-india-asteroid-search-campaign/)
+* Bronze Medalist - Indian Science and Engineering Fair 2016 
+* President, LITMUS: The MUN, Debating and Writing Society, Manipal University Jaipur 
+* Top Individual at the [World Scholars' Cup](https://www.scholarscup.org/).
