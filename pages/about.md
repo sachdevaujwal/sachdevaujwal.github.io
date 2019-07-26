@@ -2,6 +2,11 @@
 layout: misc
 title: About
 ---
+<div class="featured-image">
+    <img src="{{ site.github.url }}/assets/img/about-me2.jpg">
+</div>
+
+
 I am currently pursuing my Bachelor's Degree with specialization in **Computer Science Engineering** from [Manipal University Jaipur, India](https://jaipur.manipal.edu/). I hold a keen interest in data analytics and Python Programming. 
 
 I also have an undying passion towards cricket commentary and public speaking.
