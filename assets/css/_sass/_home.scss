@@ -1,3 +1,25 @@
+
+.content {
+  width: 400px;
+  padding: 20px;
+  overflow: hidden;
+}
+
+.content img {
+  margin-right: 15px;
+  float: left;
+  height: 50px;
+}
+
+.content h3,
+.content p{
+  margin-left: 15px;
+  display: block;
+  margin: 19px 0 0 0;
+}
+
+
+
 .featured-posts {
   height: 150px;
   margin: 5px 10px 10px;
@@ -26,6 +48,59 @@
 }
 .featured-posts h1 {
   margin: 10px;
+}
+
+// HomePage Post
+.home-post {
+  height: 650px;
+  margin: 5px 10px 10px;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.home-post h2 {
+  bottom: 0;
+  margin: 0;
+  padding: 10px;
+  position: absolute;
+}
+.home-post h2 span {
+   display: inline-block;
+   color: white;
+   font: bold 24px/45px Helvetica, Sans-Serif;
+   letter-spacing: -1px;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+}
+
+.home-post h4 {
+  top: 0;
+  margin: 0;
+  padding: 10px;
+  position: absolute;
+}
+.home-post h4 span {
+   display: inline-block;
+   color: white;
+   font: bold 24px/45px Helvetica, Sans-Serif;
+   letter-spacing: -1px;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+}
+
+.home-post span a {
+  color: white;
+}
+.home-post h1 {
+  margin: 10px;
+}
+
+.intro {
+  margin: 50px;
+  text-align: center;
 }
 
 /*

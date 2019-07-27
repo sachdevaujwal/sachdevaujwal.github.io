@@ -1,7 +1,14 @@
 <header class="site-header">
-  <h3 class="site-title">
-    <a href="{{ site.github.url }}/">{{ site.title }}</a>
-  </h3>
+
+
+      <span class="content">
+          <img src="/assets/img/us.jpg"></img>
+        <a class="site-title" href="{{ site.github.url }}/">
+        <h3>{{ site.title }}</h3>
+        
+        </a>
+      </span>​
+
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
@@ -9,9 +16,9 @@
 
     <a href="/assets/pdf/Resume.pdf" target="_blank">Resume</a>
 
-    {% for item in site.data.settings.social %}
+    <!-- {% for item in site.data.settings.social %}
       <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-    {% endfor %}
+    {% endfor %} -->
   </nav>
 
   
@@ -24,9 +31,9 @@
 
       <a href="/assets/pdf/Resume.pdf" target="_blank">Resume</a>
 
-      {% for item in site.data.settings.social %}
+      <!-- {% for item in site.data.settings.social %}
         <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-      {% endfor %}
+      {% endfor %} -->
     </div>
   </div>
 </header>

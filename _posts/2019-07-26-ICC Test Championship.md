@@ -4,7 +4,7 @@ title: "ICC WORLD TEST CHAMPIONSHIP: A Second Bite at the Cherry"
 author: "Ujwal Sachdeva"
 categories: cricket
 tags: [worldcup, sample]
-#image: test-champ.jpg
+image: test-champ.jpg
 bgcolor: rgb(47, 48, 130)
 ---
 <div class="featured-image">
@@ -20,9 +20,13 @@ Drastic times call for drastic measures and in such a situation, the ICC World T
 With this Championship being carefully planned out for years and finally brought into implementation by the international Cricket Council, we might just be looking at a brighter future of the sport as a whole. While this championship has all the prospects to bring out the expected outcomes, this might just be the last opportunity to bring to life the most respected format of the game. In light of that, here is all that you need to know about this newly introduced championship. 
 
 •	The ICC World Test Championship will be played from 2019 to 2021.
+
 •	The nine, top ranked teams will be competing in this championship. 
+
 •	The inaugural match would be the first Ashes Test commencing on August 1, 2019.
+
 •	Each of the participating teams will compete in six bilateral series against mutually decided opponents. Three of these series will be played at home, while the rest will be away tours.  
+
 
 ##### POINTS DISTRIBUTION
 <table style="width:100%">

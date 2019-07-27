@@ -9,7 +9,7 @@ title: About
 
 I am currently pursuing my Bachelor's Degree with specialization in **Computer Science Engineering** from [Manipal University Jaipur, India](https://jaipur.manipal.edu/). I hold a keen interest in data analytics and Python Programming. 
 
-I also have an undying passion towards cricket commentary and public speaking.
+I also have an undying passion towards cricket commentary and public speaking. 
 
 ### WORK EXPERIENCE
 * [Indian Statistical Institute, Delhi Centre](https://www.isid.ac.in/)
