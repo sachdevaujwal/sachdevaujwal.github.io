@@ -3,12 +3,21 @@ layout: page
 title: Projects
 ---
 
-{% for post in site.categories.facts %}
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" 
-    {% if post.bgcolor %}style="background-color:{{ post.bgcolor }}"{% endif %}
-    >
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-{% endfor %}
+<div>
+  A data science enthusiast, looking up opportunities in this field.
+
+  Here are a few of the projects undertaken by me till date.
+  </div>
+  
+  <br/>
+  
+  {% for post in site.categories.projects %}
+    <a href="{{ site.github.url }}{{ post.url }}">
+      <div class="featured-posts" 
+      {% if post.bgcolor %}style="background-color:{{ post.bgcolor }}"{% endif %}
+      >
+        <h2><span>{{ post.title }}</span></h2>
+      </div>
+    </a>
+  {% endfor %}
+  
