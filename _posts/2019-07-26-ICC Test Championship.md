@@ -3,7 +3,7 @@ layout: post
 title: "ICC WORLD TEST CHAMPIONSHIP: A Second Bite at the Cherry"
 author: "Ujwal Sachdeva"
 categories: cricket
-tags: [worldcup, sample]
+tags: [icc-test-championship]
 image: test-champ.jpg
 bgcolor: rgb(47, 48, 130)
 ---
