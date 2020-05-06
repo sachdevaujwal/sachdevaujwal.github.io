@@ -3,7 +3,7 @@ layout: misc
 title: About
 ---
 <div class="featured-image">
-    <img src="{{ site.github.url }}/assets/img/about-me2.jpg">
+    <img src="{{ site.github.url }}/assets/img/about-me-final.jpg">
 </div>
 
 
@@ -17,7 +17,7 @@ I have been watching and playing cricket since before my teenage years and to be
 Brett Lee, Yuvraj Singh
 
 ### MY FAVOURITE MATCH 
-Althogh extremely tough to choose one particular game, I would go for the Indo-Pak final of the inaugural T20 World Cup. 
+Although extremely tough to choose one particular game, I would go for the Indo-Pak final of the inaugural T20 World Cup. 
 
 ### MY DREAM TEAM
 Sachin Tendulkar, Adam Gilchrist, Kumar Sangakkara (WK), Yuvraj Singh, AB De Villiers, Shoaib Malik, Andrew Flintoff, Brett Lee, Imran Tahir, Jasprit Bumrah, Dale Steyn
