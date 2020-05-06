@@ -7,26 +7,17 @@ title: About
 </div>
 
 
-I am currently pursuing my Bachelor's Degree with specialization in **Computer Science Engineering** from [Manipal University Jaipur, India](https://jaipur.manipal.edu/). I hold a keen interest in data analytics and Python Programming. 
+I am currently pursuing my Bachelor's Degree with specialization in **Computer Science Engineering** from [Manipal University Jaipur, India](https://jaipur.manipal.edu/). 
 
-I also have an undying passion towards cricket commentary and public speaking. 
+I have an undying passion towards cricket commentary and public speaking. Analysis and commentary of the gentleman's game are the aspects that excite me the most!
 
-### WORK EXPERIENCE
-* [Indian Statistical Institute, Delhi Centre](https://www.isid.ac.in/)
-**PROJECT INTERN**
-MAY 2018-JULY 2018
+I have been watching and playing cricket since before my teenage years and to be able to contribute to the game in any manner possible is what I wish to achieve through this space. 
 
-Developed an Inventory Management System on Jupyter Notebooks using Python that takes into account multiple factors to prevent an "Out-Of-Stock" Situation, while also predicting the average sales product-wise over the desired amount of time.
+### MY FAVOURITE PLAYERS
+Brett Lee, Yuvraj Singh
 
-*   [Indian Statistical Institute, Delhi Centre](https://www.isid.ac.in/)
-**PROJECT INTERN**
-MAY 2019-JULY 2019
+### MY FAVOURITE MATCH 
+Althogh extremely tough to choose one particular game, I would go for the Indo-Pak final of the inaugural T20 World Cup. 
 
-Developed a Song Recommendation System on Jupyter Notebooks using Python that works accoring to various prediction models, while also comapring them to determine their utility and accuracy.
-
-### ACHIEVEMENTS 
-
-* Credited for 1 NEO Observation and 11 NEO Confirmations in the [All India Asteroid Search Campaign](https://www.space-india.com/all-india-asteroid-search-campaign/)
-* Bronze Medalist - Indian Science and Engineering Fair 2016 
-* President, LITMUS: The MUN, Debating and Writing Society, Manipal University Jaipur 
-* Top Individual at the [World Scholars' Cup](https://www.scholarscup.org/).
+### MY DREAM TEAM
+Sachin Tendulkar, Adam Gilchrist, Kumar Sangakkara (WK), Yuvraj Singh, AB De Villiers, Shoaib Malik, Andrew Flintoff, Brett Lee, Imran Tahir, Jasprit Bumrah, Dale Steyn
