@@ -3,7 +3,7 @@ layout: post
 title: "INDIA TOUR TO WEST INDIES: The Exclusion of Shubman Gill"
 author: "Ujwal Sachdeva"
 categories: cricket
-tags: [sample]
+tags: [shubhman-gil]
 image: shibman-gill.jpg
 bgcolor: rgb(97, 88, 130)
 ---
