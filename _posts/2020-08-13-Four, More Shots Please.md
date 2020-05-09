@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Four, More Shots Please?"
+title: "FOUR, MORE SHOTS PLEASE?"
 author: "Ujwal Sachdeva"
 categories: cricket
 tags: [shreyas-iyer, number-4, india-batting-issue, india-number-4-problem]
 bgcolor: rgb(47, 48, 130)
 ---
-#####A LOOK INTO INDIA'S NUMBER 4 CONUNDRUM
+##### A LOOK INTO INDIA'S NUMBER 4 CONUNDRUM
 
 <div class="featured-image">
     <img src="{{ site.github.url }}/assets/img/shreyas-iyer.jpg">
@@ -22,4 +22,4 @@ The question, however, which remains to be answered is that of consistency of sc
 
 The video here is my analysis on the same, and talks about the conundrum, while also analysing the way forward for Shreyas Iyer as the ideal number 4 in this batting lineup.
 
-<iframe width="560" height="315" src="https://youtu.be/mH_gFou2p08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mH_gFou2p08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
