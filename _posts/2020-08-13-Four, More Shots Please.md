@@ -7,7 +7,7 @@ tags: [shreyas-iyer, number-4, india-batting-issue, india-number-4-problem]
 image: iyerpic.jpg
 bgcolor: rgb(47, 48, 130)
 ---
-##### A LOOK INTO INDIA'S NUMBER 4 CONUNDRUM ujwal
+##### A LOOK INTO INDIA'S NUMBER 4 CONUNDRUM
 
 The number 4 conundrum in Indian cricket has stuck around for a longer period than any head coach! Few of the most reputed national players have taken up the number 4 position and yielded average batting averages. 
 
