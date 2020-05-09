@@ -4,7 +4,7 @@ title: "FOUR, MORE SHOTS PLEASE?"
 author: "Ujwal Sachdeva"
 categories: cricket
 tags: [shreyas-iyer, number-4, india-batting-issue, india-number-4-problem]
-image: test-champ.jpg
+image: iyerbhai.jpg
 bgcolor: rgb(47, 48, 130)
 ---
 ##### A LOOK INTO INDIA'S NUMBER 4 CONUNDRUM
