@@ -1,12 +1,16 @@
 ---
 layout: post
-title: "INDIA TOUR TO WEST INDIES: The Exclusion of Shubman Gill"
+title: "Four, More Shots Please?"
 author: "Ujwal Sachdeva"
 categories: cricket
 tags: [shreyas-iyer, number-4, india-batting-issue, india-number-4-problem]
-image: shreyas-iyer.jpg
 bgcolor: rgb(47, 48, 130)
 ---
+#####A LOOK INTO INDIA'S NUMBER 4 CONUNDRUM
+
+<div class="featured-image">
+    <img src="{{ site.github.url }}/assets/img/shreyas-iyer.jpg">
+</div>
 
 The number 4 conundrum in Indian cricket has stuck around for a longer period than any head coach! Few of the most reputed national players have taken up the number 4 position and yielded average batting averages. 
 
