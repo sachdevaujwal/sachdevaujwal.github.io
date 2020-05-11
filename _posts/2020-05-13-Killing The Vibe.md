@@ -4,7 +4,7 @@ title: "KILLING THE VIBE: The Inherent Aggression of the Aussies"
 author: "Ujwal Sachdeva"
 categories: cricket
 tags: [cricket-australia, australia-aggressive, killing-the-vibe, aggression-of-australia]
-image: johnson.jpg
+image: warner.jpg
 bgcolor: rgb(97, 88, 130)
 ---
 
