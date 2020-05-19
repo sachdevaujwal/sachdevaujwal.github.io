@@ -15,7 +15,7 @@ In order to increase revenue, it is almost clear that once cricket resumes, the 
 Considering the equation, ICC has chalked out certain necessary formulae that need to be adapted in order to take necessary safety precautions. The committee led by Anil Kumble has recommended to include a ban on the use of saliva to shine the ball and bringing back non-neutral umpires and referees while proposing an additional DRS review per team per innings in each format as an interim measure. 
 
 <div class="featured-image">
-    <img src="{{ site.github.url }}/assets/img/infographic.png">
+    <img src="{{ site.github.url }}/assets/img/Infographic2.png">
 </div>
 
 Moving beyond these significant issues and to the sentiments of cricket fans, we might not see some cricket legends with age against them back in action in the international arena. Some of these players may include names as big as Chris Gayle and AB De Villiers (after such a long discussion about his international return, alas!). 
