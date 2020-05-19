@@ -4,7 +4,7 @@ title: "COVID CHUCKS CRICKET: Analyzing the Impact of COVID-19 on Cricket"
 author: "Ujwal Sachdeva"
 categories: cricket
 tags: [covid-impact-on-cricket, covid-cricket, impact-of-covid-on-cricket]
-image: cccfinal.jpg
+image: cccfinal.jpeg
 bgcolor: rgb(97, 88, 130)
 ---
 
