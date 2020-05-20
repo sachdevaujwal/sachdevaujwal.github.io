@@ -18,7 +18,7 @@ Considering the equation, ICC has chalked out certain necessary formulae that ne
     <img src="{{ site.github.url }}/assets/img/Infographic2.png">
 </div>
 
-Moving beyond these significant issues and to the sentiments of cricket fans, we might not see some cricket legends with age against them back in action in the international arena. Some of these players may include names as big as Chris Gayle and AB De Villiers (after such a long discussion about his international return, alas!). 
+Moving beyond these significant issues and to the sentiments of cricket fans, we might not see some cricket legends with age against them back in action in the international arena. Some of these players may include names as big as Mahendra Singh Dhoni, Chris Gayle and AB De Villiers (after such a long discussion about his international return, alas!). 
 
 Ultimately, the need of the hour is that all cricket boards get together and discuss the roadmap for the way forward and most importantly, cooperate mutually to revive the game and the revenue it generates, while also keeping the health of players at utmost priority. 
 
