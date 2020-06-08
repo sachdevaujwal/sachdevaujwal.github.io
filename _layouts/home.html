@@ -11,7 +11,7 @@ title: Home
 
 <article>
   <a href="{{ site.github.url }}{{ site.posts.first.url }}">
-    <div class="home-post" {% if site.posts.first.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ site.posts.first.image }})"{% endif %}>
+    <div class="home-post" {% if site.posts.first.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ site.posts.first.image }})" height="1000" width="1000" {% endif %}>
       <h4><span>FEATURED POST</span></h4>
       <h2><span>{{ site.posts.first.title }}</span></h2>
     </div>
