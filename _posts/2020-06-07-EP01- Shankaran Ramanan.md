@@ -4,7 +4,7 @@ title: "ALL THINGS CRICKET EP01: SHANKARAN RAMANAN"
 author: "Ujwal Sachdeva"
 categories: podcasts
 tags: [all-things-cricket, the-twelfth-man, shankaran-ramananan, raman-amity-saket]
-image: raman-sir-3.png
+image: raman-sir-4.png
 bgcolor: rgb(47, 48, 130)
 ---
 
