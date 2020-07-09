@@ -59,6 +59,6 @@ His form dropped after Asia Cup in 2008 and the appearance of Virat Kohli made i
     <img src="{{ site.github.url }}/assets/img/mishraji-lol.png">
 </div>
 
-Amit Mishra is one of the examples of being born in wrong era. The Indian leg- break bowler who had the ability to shine at higher levels was overlooked when legendary Anil Kumble and Harbhajan Singh were at their peak. With 535 first-class wickets to his name, he barely got to play for India. 
+Amit Mishra is one of the examples of being born in wrong era. The Indian leg- break bowler who had the ability to shine at higher levels was overlooked when legendary spinners Anil Kumble and Harbhajan Singh were at their peak. With 535 first-class wickets to his name, he barely got to play for India. 
 
 He picked 76 wickets in tests, 64 wickets in ODIs, 16 wickets in T20Is in a short span of time. However, due to the likes of Ravichandran Ashwin and Ravindra Jadeja he did not last for long in the Indian team. Now, with emergence of Yuzvendra Chahal and Kuldeep Yadav, it’s nearly impossible for the 35-year-old to make a comeback.
