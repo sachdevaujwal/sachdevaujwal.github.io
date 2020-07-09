@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "ALL THINGS CRICKET EP01: SAMIP RAJGURU"
+title: "ALL THINGS CRICKET EP02: SAMIP RAJGURU"
 author: "Ujwal Sachdeva"
 categories: podcasts
 tags: [all-things-cricket, the-twelfth-man, samip-rajguru, star-sports, india-tv, cricket-ki-baat]
 image: samip-rajguru.png
-bgcolor: rgb(47, 48, 130)
+bgcolor: rgb(97, 88, 130)
 ---
 
 The second guest on All Things Cricket, Samip Rajguru is the host of "Cricket Ki Baat" on India TV, a commentator with Star Sports at the ISL, a sports journalist and a presenter. 
