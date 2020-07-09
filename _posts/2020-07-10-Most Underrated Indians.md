@@ -18,6 +18,7 @@ The first name that comes to our mind when we hear “underrated Indian crickete
 Later however, the selectors backed young players like Shikhar Dhawan and Murli Vijay instead of him, which was somewhat unfair since Jaffer had almost scored double the runs they scored in Ranji season. Finally, in March 2020, he announced his retirement from all forms of cricket.
 
 <h3>(2) MANOJ TIWARY </h3>
+
 <div class="featured-image">
     <img src="{{ site.github.url }}/assets/img/manoj-lol2.jpg">
 </div>
@@ -27,6 +28,7 @@ Manoj Tiwary, a famous bastman from Bengal is also one of the most underrated cr
 The talented cricketer was never given a chance by selectors to represent India in Tests, but got a few chances in ODIs. With promising players like Rohit Sharma and Virat Kohli beginning to make a name for themselves in the international stage, Tiwary was completely ignored from the senior side.
 
 <h3>(3) SUBRAMANIAM BADRINATH </h3>
+
 <div class="featured-image">
     <img src="{{ site.github.url }}/assets/img/badri-lol.png">
 </div>
@@ -40,6 +42,7 @@ Badrinath featured in his only T20I in 2011 and was adjudged as Man of the Match
 In August 2018, he retired from all forms of cricket.
 
 <h3>(4) ROBIN UTHAPPA </h3>
+
 <div class="featured-image">
     <img src="{{ site.github.url }}/assets/img/robbie-lol.jpg">
 </div>
@@ -51,6 +54,7 @@ With 4121 runs to his name, he is also fifth highest run-scorer in the history o
 His form dropped after Asia Cup in 2008 and the appearance of Virat Kohli made it much more difficult for Uthappa’s comeback. He managed to make a come-back but failed to perform and ultimately lost his place.
 
 <h3>(5) AMIT MISHRA </h3>
+
 <div class="featured-image">
     <img src="{{ site.github.url }}/assets/img/mishraji-lol.png">
 </div>
