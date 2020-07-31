@@ -5,7 +5,7 @@ author: "Ujwal Sachdeva"
 categories: podcasts
 tags: [all-things-cricket, the-twelfth-man, matt-machan, precise-cricket, matthew-machan, cricket-scotland]
 image: matt-machan.png
-bgcolor: rgb(47, 48, 130)
+bgcolor: rgb(97, 88, 130)
 ---
 
 The sixth guest on All Things Cricket, Matt Machan is a former Scottish all-rounder who’s been at two World Cups – the 2015 WC at Australia and 2016 T20 World Cup at India. The man of the match in Scotland’s first victory at an ICC Tournament and one of the biggest contributors in Scotland’s streak of seven successive victories. A former cricketer with Sussex and their Young Player of the Year as well in 2013.

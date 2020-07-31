@@ -5,7 +5,7 @@ author: "Ujwal Sachdeva"
 categories: podcasts
 tags: [all-things-cricket, the-twelfth-man, raunak-kapoor, beyond-the-field, espn-cricinfo, espn-beyond-the-field]
 image: raunak-kapoor.png
-bgcolor: rgb(97, 88, 130)
+bgcolor: rgb(47, 48, 130)
 ---
 
 The fifth guest on All Things Cricket, Raunak Kapoor is a man of multiple talents! The host of Match Point, a qualified lawyer, a stand-up comedian, someone whom we’ve seen on our screens interacting with the biggest names in the sport. 
