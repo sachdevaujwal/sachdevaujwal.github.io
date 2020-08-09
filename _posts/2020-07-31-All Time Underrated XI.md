@@ -83,7 +83,7 @@ Morne Morkel is a former South African player who played in all formats of game.
 <h3>(10) JAVAGAL SRINATH </h3>
 
 <div class="featured-image">
-    <img src="{{ site.github.url }}/assets/img/javagal-sri.png">
+    <img src="{{ site.github.url }}/assets/img/javagal-ji.jpg">
 </div>
 
 Javagal Srinath is a former Indian fast bowler and currently an ICC match referee, who was also called “The Mysore Express”. He was one the finest pacers of the Indian team and was the first Indian pacer to take 300 wickets in ODIs. He picked 236 and 315 wickets in Tests and ODIs respectively. During his peak years, it was India’s batting line-up that took the limelight. Though he was one of the best pacers, he was overshadowed in the era of great pacers like Courtney Walsh, Curtly Ambrose, Alan Donald and Glenn McGrath.
@@ -91,7 +91,7 @@ Javagal Srinath is a former Indian fast bowler and currently an ICC match refere
 <h3>(11) NEIL WAGNER </h3>
 
 <div class="featured-image">
-    <img src="{{ site.github.url }}/assets/img/neil-bhai.png">
+    <img src="{{ site.github.url }}/assets/img/neil-wag.jpg">
 </div>
 
 Neil Wagner is a New Zealand Cricketer who made his Test debut in 2012 against West Indies. He has picked 206 Test wickets with an average of 26.6. The 34-year old is an efficient fast bowler who has done well in Tests but is still awaiting a call up to the ODI and T20I side. He was overshadowed by his teammates Tim Southee, Trent Boult and Lockie Ferguson.
