@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "ALL THINGS CRICKET EP06: MATT MACHAN"
+title: "ALL THINGS CRICKET EP08: CHETNYA NANDA"
 author: "Ujwal Sachdeva"
 categories: podcasts
-tags: [all-things-cricket, the-twelfth-man, matt-machan, precise-cricket, matthew-machan, cricket-scotland]
-image: matt-machan.png
+tags: [all-things-cricket, the-twelfth-man, chetnya-nanda, ddca-selector]
+image: CHHUTIYA-NANDA.png
 bgcolor: rgb(97, 88, 130)
 ---
 

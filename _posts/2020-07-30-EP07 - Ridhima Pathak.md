@@ -4,7 +4,7 @@ title: "ALL THINGS CRICKET EP07: RIDHIMA PATHAK"
 author: "Ujwal Sachdeva"
 categories: podcasts
 tags: [all-things-cricket, the-twelfth-man, ridhima-pathak, around-the-hoop, nba-weekly]
-image: matt-machan.png
+image: RIDH-PATH.png
 bgcolor: rgb(47, 48, 130)
 ---
 
