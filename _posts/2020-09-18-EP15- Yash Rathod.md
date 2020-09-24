@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ALL THINGS CRICKET EP13: MUHAMMAD SARIM AKHTAR"
+title: "ALL THINGS CRICKET EP15: YASH RATHOD"
 author: "Ujwal Sachdeva"
 categories: podcasts
 tags: [all-things-cricket, the-twelfth-man, muhammad-sarim-akhtar, sarim-akhtar, cricket-meme, pakistani-fan, angry-pakistani-fan]
