@@ -3,7 +3,7 @@ layout: post
 title: "ALL THINGS CRICKET EP14: SAYALI NAIK"
 author: "Ujwal Sachdeva"
 categories: podcasts
-tags: [all-things-cricket, the-twelfth-man, muhammad-sarim-akhtar, sarim-akhtar, cricket-meme, pakistani-fan, angry-pakistani-fan]
+tags: [all-things-cricket, the-twelfth-man, sayali-naik, sayali-naik-nutritionist, nutritionist-sayali-naik]
 image: 11.png
 bgcolor: rgb(97, 88, 130)
 ---

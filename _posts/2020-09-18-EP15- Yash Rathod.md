@@ -3,7 +3,7 @@ layout: post
 title: "ALL THINGS CRICKET EP15: YASH RATHOD"
 author: "Ujwal Sachdeva"
 categories: podcasts
-tags: [all-things-cricket, the-twelfth-man, muhammad-sarim-akhtar, sarim-akhtar, cricket-meme, pakistani-fan, angry-pakistani-fan]
+tags: [all-things-cricket, the-twelfth-man, yash-rathod, india-under-19, india-u19, under-19-india]
 image: 10.png
 bgcolor: rgb(47, 48, 130)
 ---

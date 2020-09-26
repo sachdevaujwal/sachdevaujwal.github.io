@@ -3,7 +3,7 @@ layout: post
 title: "ALL THINGS CRICKET EP16: RAGINI KUMAR"
 author: "Ujwal Sachdeva"
 categories: podcasts
-tags: [all-things-cricket, the-twelfth-man, muhammad-sarim-akhtar, sarim-akhtar, cricket-meme, pakistani-fan, angry-pakistani-fan]
+tags: [all-things-cricket, the-twelfth-man, ragini-kumar, star-sports, star-sports-executive-producer, ipl-2020]
 image: RAG-KUM.png
 bgcolor: rgb(97, 88, 130)
 ---
